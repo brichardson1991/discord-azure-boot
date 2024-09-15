@@ -12,14 +12,14 @@
 	},
 	"dependencies": {
 		"@azure/arm-compute": "^19.0.0",
-		"@azure/identity": "^2.0.5",
+		"@azure/identity": "^4.2.1",
 		"@azure/ms-rest-nodeauth": "^3.1.1",
 		"@discordjs/builders": "^0.15.0",
-		"@discordjs/rest": "^0.5.0",
-		"discord.js": "^13.8.0",
-		"moment": "^2.29.3",
-		"mongodb": "^4.7.0",
-		"node-fetch": "2.6.1",
+		"@discordjs/rest": "^2.3.0",
+		"discord.js": "^14.15.1",
+		"moment": "^2.29.4",
+		"mongodb": "^6.0.0",
+		"node-fetch": "2.6.7",
 		"winston": "^3.7.2"
 	},
 	"devDependencies": {
