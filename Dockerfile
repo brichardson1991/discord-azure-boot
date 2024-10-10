@@ -1,4 +1,4 @@
-FROM node:16-alpine
+FROM node:22.9-alpine
 
 RUN mkdir -p /opt/discord-azure-bot
 WORKDIR /opt/discord-azure-bot
