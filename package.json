@@ -21,7 +21,7 @@
 		"moment": "^2.29.4",
 		"mongodb": "^6.10.0",
 		"node-fetch": "2.7.0",
-		"winston": "^3.15.0",
+		"winston": "^3.17.0",
 		"zod": "^3.23.8"
 	},
 	"devDependencies": {
